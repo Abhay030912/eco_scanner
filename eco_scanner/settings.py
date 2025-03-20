@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-c++op6-hj4m%7af%9q(46!1t1l)*z3g5k6cagym&6ng9l*tpzy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.101.13', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ["eco-scanner.onrender.com"]
+
 
 
 
